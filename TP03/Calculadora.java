@@ -1,4 +1,5 @@
-//GABRIEL FAUSTINO - CB3005399
+//FELLIPE SOARES ROMANO CB3005411
+//STEFANY LISBOA DA SILVA CB3005551
 
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;

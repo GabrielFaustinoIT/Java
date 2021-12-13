@@ -1,0 +1,22 @@
+CREATE DATABASE aulajava
+GO
+
+USE aulajava
+GO
+
+CREATE TABLE tbfuncs(
+	cod_func INT PRIMARY KEY NOT NULL,
+	nome_func CHAR(30),
+	sal_func MONEY(8),
+	cod_cargo SMALLINT(2)
+)
+
+CREATE TABLE tbcargos(
+	cd_cargo INT PRIMARY KEY NOT NULL,
+	ds_cargo CHAR(20)
+)
+
+INSERT INTO tbfuncs (nome_func) values ('Gabriel')
+INSERT INTO tbfuncs (sal_func) values (2000)
+
+INSERT INTO tbcargos (ds_cargo) values ('Analista Jr.')

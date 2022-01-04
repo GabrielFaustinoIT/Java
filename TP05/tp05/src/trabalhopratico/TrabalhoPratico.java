@@ -6,7 +6,7 @@ package trabalhopratico;
 
 /**
  *
- * @author Vitor Hugo
+ * @author Gabriel Faustino Marcelino dos Santos
  */
 public class TrabalhoPratico {
 

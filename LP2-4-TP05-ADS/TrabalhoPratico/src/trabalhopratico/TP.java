@@ -8,7 +8,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Vitor Hugo
+ * @author Gabriel Faustino Marcelino dos Santos
  */
 public class TP extends javax.swing.JFrame {
 

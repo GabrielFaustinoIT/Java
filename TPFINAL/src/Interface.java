@@ -1,4 +1,4 @@
-// Wesley Oliveira - CB300550X
+// GABRIEL FAUSTINO -- 3005399
 
 import javax.swing.JInternalFrame;
 import javax.swing.JTextField;

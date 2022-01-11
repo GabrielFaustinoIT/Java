@@ -3,13 +3,10 @@
 import java.sql.Connection; 
 import java.sql.SQLException; 
 
-public class BancoDeDados {     
+public class ConnectionTest {     
     public static void main(String[] args) throws SQLException {
-         new Conexao();
-         Connection connection = Conexao.fazConexao();
-         
-         System.out.println("Funcionou!");
-         
+         Connection connection = new JavaConnect().fazConexao();
+         System.out.println("Connection working!");
          connection.close();
      }
 }

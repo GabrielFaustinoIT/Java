@@ -4,12 +4,12 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class Conexao {
+public class JavaConnect {
 	public static Connection fazConexao() throws SQLException {
 		
-		String url = "jdbc:mysql://localhost/db_clientes";
-		String user = "root";
-		String password = "minhasenha";
+		String url = "jdbc:sqlserver://DESKTOP-F4TDNDA:1433;databaseName=TPFINAL";
+		String user = "gabrielads";
+		String password = "123456";
 		
 		try {
 			
@@ -21,4 +21,3 @@ public class Conexao {
 		}
 		
 	}
-}

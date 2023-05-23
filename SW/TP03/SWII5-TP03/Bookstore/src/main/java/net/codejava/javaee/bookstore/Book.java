@@ -1,7 +1,7 @@
 package net.codejava.javaee.bookstore;
  
 /**
- *SWII5 - TP03 - Alunos: Grazielle e Josuel - Prof Tuler
+ *SWII5 - TP03 - Aluno: GABRIEL FAUSTINO
  */
 
 public class Book {

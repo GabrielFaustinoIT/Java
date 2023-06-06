@@ -1,6 +1,5 @@
 /*
- * Brenno Barbosa Bezerra - CB3007219
- * Diego Pereira Gonzalez Natalo - CB3005585
+ * Gabriel Faustino Marcelino dos Santos - CB3005399
  */
 
 
